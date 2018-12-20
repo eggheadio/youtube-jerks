@@ -1,0 +1,1148 @@
+{
+  "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hON8J0pY4bcBgPsi9ENLw7G5NAk\"",
+  "items": [
+    {
+      "contentDetails": { "videoId": "e7CzSgEq4bc", "videoPublishedAt": "2018-08-23T01:10:11.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mPkBiUOzXby8bFMEjoR7fnSW9xc\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41NkI0NEY2RDEwNTU3Q0M2",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda)\n\n01. [Course Overview_ Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/lessons/aws-course-overview-develop-a-serverless-backend-using-node-js-on-aws-lambda)\n02. [Create a User and setup the AWS CLI to interact with AWS](https://egghead.io/lessons/aws-create-a-user-and-setup-the-aws-cli-to-interact-with-aws)\n03. [Setup the Serverless Framework](https://egghead.io/lessons/aws-setup-the-serverless-framework)\n04. [Deploy a Node.js function to AWS Lambda using the Serverless Framework](https://egghead.io/lessons/aws-deploy-a-node-js-function-to-aws-lambda-using-the-serverless-framework)\n05. [Attach a HTTP endpoint to an AWS Lambda function using the Serverless Framework](https://egghead.io/lessons/aws-attach-a-http-endpoint-to-an-aws-lambda-function-using-the-serverless-framework)\n06. [Deploy a DynamoDB table to AWS using the Serverless Framework](https://egghead.io/lessons/aws-deploy-a-dynamodb-table-to-aws-using-the-serverless-framework)\n07. [Deploy an AWS Lambda function to store data in DynamoDB using the Serverless Framework](https://egghead.io/lessons/aws-deploy-an-aws-lambda-function-to-store-data-in-dynamodb-using-the-serverless-framework)\n08. [Deploy an AWS Lambda to retrieve a record from DynamoDB with the Serverless Framework](https://egghead.io/lessons/aws-deploy-an-aws-lambda-to-retrieve-a-record-from-dynamodb-with-the-serverless-framework)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 0,
+        "publishedAt": "2018-09-04T06:05:54.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "e7CzSgEq4bc" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/e7CzSgEq4bc/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/e7CzSgEq4bc/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/e7CzSgEq4bc/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/e7CzSgEq4bc/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/e7CzSgEq4bc/sddefault.jpg", "width": 640 }
+        },
+        "title": "Develop a Serverless Backend using Node js on AWS Lambda"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "UI3o3u-N2Lo", "videoPublishedAt": "2018-08-31T05:09:16.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ur8w3H5x_X56WaMOlvM_BdCzWd4\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4yODlGNEE0NkRGMEEzMEQy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://frontendmasters.com/workshops/advanced-state-management-in-react/",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 1,
+        "publishedAt": "2018-09-04T06:06:14.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "UI3o3u-N2Lo" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/UI3o3u-N2Lo/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/UI3o3u-N2Lo/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/UI3o3u-N2Lo/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/UI3o3u-N2Lo/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/UI3o3u-N2Lo/sddefault.jpg", "width": 640 }
+        },
+        "title": "Advanced State Management in React Applications (Redux, MobX, sagas, etc.)"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "ZBCEHq1UOoM", "videoPublishedAt": "2018-08-23T01:01:03.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hxwqnCFqKQjWklJDZzYPvOYcqIU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4wMTcyMDhGQUE4NTIzM0Y5",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "# [End to End Testing with Cypress](https://egghead.io/courses/end-to-end-testing-with-cypress)\n\n01. [Course Overview: End to End Testing with Cypress](https://egghead.io/lessons/cypress-course-overview-end-to-end-testing-with-cypress)\n02. [Add Cypress to an Existing Application with npm](https://egghead.io/lessons/cypress-add-cypress-to-an-existing-application-with-npm)\n03. [Visit a page with Cypress](https://egghead.io/lessons/cypress-visit-a-page-with-cypress)\n04. [Find and Test Focused Input with Chrome’s DevTools in Cypress](https://egghead.io/lessons/cypress-find-and-test-focused-input-with-chrome-s-devtools-in-cypress)\n05. [Test React’s Controlled Input with Cypress Selector Playground](https://egghead.io/lessons/cypress-test-react-s-controlled-input-with-cypress-selector-playground)\n06. [Reduce Code Duplication in Cypress Tests with beforeEach](https://egghead.io/lessons/cypress-reduce-code-duplication-in-cypress-tests-with-beforeeach)\n07. [Stub Network Requests in a Cypress Test](https://egghead.io/lessons/cypress-stub-network-requests-in-a-cypress-test)\n08. [Load Data from Test Fixtures in Cypress](https://egghead.io/lessons/cypress-load-data-from-test-fixtures-in-cypress)\n09. [Wait for XHR Responses in a Cypress Test](https://egghead.io/lessons/cypress-wait-for-xhr-responses-in-a-cypress-test)\n10. [Create a Single Custom Cypress Command from Multiple Commands](https://egghead.io/lessons/cypress-create-a-single-custom-cypress-command-from-multiple-commands)\n11. [Stub a Post Request for Successful Form Submission with Cypress](https://egghead.io/lessons/cypress-stub-a-post-request-for-successful-form-submission-with-cypress)\n12. [Test XHR Failure Conditions with Cypress](https://egghead.io/lessons/cypress-test-xhr-failure-conditions-with-cypress)\n13. [Interact with Hidden Elements in a Cypress Test](https://egghead.io/lessons/cypress-interact-with-hidden-elements-in-a-cypress-test)\n14. [Create Aliases for DOM Elements in Cypress Tests](https://egghead.io/lessons/cypress-create-aliases-for-dom-elements-in-cypress-tests)\n15. [Test Variations of a Feature in Cypress with a data-driven Test](https://egghead.io/lessons/cypress-test-variations-of-a-feature-in-cypress-with-a-data-driven-test)\n16. [Access step-by-step Logs with Chrome devTools and Cypress UI](https://egghead.io/lessons/cypress-access-step-by-step-logs-with-chrome-devtools-and-cypress-ui)\n17. [Create True end-to-end Tests with Cypress](https://egghead.io/lessons/cypress-create-true-end-to-end-tests-with-cypress)\n18. [Run Cypress Tests without the UI](https://egghead.io/lessons/cypress-run-cypress-tests-without-the-ui)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 2,
+        "publishedAt": "2018-09-04T06:06:24.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "ZBCEHq1UOoM" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/ZBCEHq1UOoM/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/ZBCEHq1UOoM/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/ZBCEHq1UOoM/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/ZBCEHq1UOoM/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/ZBCEHq1UOoM/sddefault.jpg", "width": 640 }
+        },
+        "title": "End to End Testing with Cypress"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "7QBUwqXO9dA", "videoPublishedAt": "2018-08-30T10:43:28.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9mJDV78M2exczfyjUjGNJtNBG0g\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41MjE1MkI0OTQ2QzJGNzNG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Offline-First Progressive Web Apps (PWA) in Vue.js](https://egghead.io/courses/offline-first-progressive-web-apps-pwa-in-vue-js)\n\n\n01. [Intro to Offline-First Progressive Web Apps in Vue.js](https://egghead.io/lessons/vue-js-intro-to-offline-first-progressive-web-apps-in-vue-js)\n02. [Add a Web App Manifest to Create a Progressive Web Application](https://egghead.io/lessons/javascript-add-a-web-app-manifest-to-create-a-progressive-web-application)\n03. [Add Meta Tags for Other Browsers on a PWA](https://egghead.io/lessons/javascript-add-meta-tags-for-other-browsers-on-a-pwa)\n04. [Cache Static Assets with Service Workers using sw-precache](https://egghead.io/lessons/vue-js-cache-static-assets-with-service-workers-using-sw-precache)\n05. [Integrate Service Worker Generation into Webpack's Build with SW-Precache](https://egghead.io/lessons/vue-js-integrate-service-worker-generation-into-webpack-s-build-with-sw-precache)\n06. [Register a Service Worker in Production](https://egghead.io/lessons/vue-js-register-a-service-worker-in-production)\n07. [Hot Reload Static Files by Clearing Service Worker Cache while Developing](https://egghead.io/lessons/vue-js-hot-reload-static-files-by-clearing-service-worker-cache-while-developing)\n08. [Use a no-op Service Worker in Development](https://egghead.io/lessons/vue-js-use-a-no-op-service-worker-in-development)\n09. [Show Notifications when a Service Worker is Installed or Updated](https://egghead.io/lessons/vue-js-show-notifications-when-a-service-worker-is-installed-or-updated)\n10. [Cache External Resources during Runtime with sw-precache](https://egghead.io/lessons/vue-js-cache-external-resources-during-runtime-with-sw-precache)\n11. [Cache Data from TCP_IP Connections with IndexedDB](https://egghead.io/lessons/vue-js-cache-data-from-tcp-ip-connections-with-indexeddb)\n12. [Lazy load Images using Intersection Observer API](https://egghead.io/lessons/vue-js-lazy-load-images-using-intersection-observer-api)\n13. [Check Online Status by using the NavigatorOnLine API](https://egghead.io/lessons/vue-js-check-online-status-by-using-the-navigatoronline-api)\n14. [Lazy Load a Route by using the Dynamic Import in Vue.js](https://egghead.io/lessons/vue-js-lazy-load-a-route-by-using-the-dynamic-import-in-vue-js)\n15. [Audit your App with Chrome Devtools](https://egghead.io/lessons/vue-js-audit-your-app-with-chrome-devtools)\n16. [Optimize Assets Delivery using preload and prefetch](https://egghead.io/lessons/vue-js-optimize-assets-delivery-using-preload-and-prefetch)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 3,
+        "publishedAt": "2018-09-04T06:06:27.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "7QBUwqXO9dA" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/7QBUwqXO9dA/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/7QBUwqXO9dA/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/7QBUwqXO9dA/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/7QBUwqXO9dA/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/7QBUwqXO9dA/sddefault.jpg", "width": 640 }
+        },
+        "title": "Offline First Progressive Web Apps PWA in Vue.js"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "FjLxRQm9f18", "videoPublishedAt": "2018-08-23T01:01:38.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cQMkF0hzfDypGbx--HsmCvJHpts\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4wOTA3OTZBNzVEMTUzOTMy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Build Async Vue.js Apps with RxJS](https://egghead.io/courses/build-async-vue-js-apps-with-rxjs)\n\n01. [Configure Vue.js to Enable RxJS Streams](https://egghead.io/lessons/vue-js-configure-vue-js-to-enable-rxjs-streams)\n02. [Create RxJS Streams in the Vue.js Subscriptions Function](https://egghead.io/lessons/vue-js-create-rxjs-streams-in-the-vue-js-subscriptions-function)\n03. [Access Events from Vue.js Templates as RxJS Streams with domStreams](https://egghead.io/lessons/vue-js-access-events-from-vue-js-templates-as-rxjs-streams-with-domstreams)\n04. [Stream an API using RxJS into a Vue.js Template](https://egghead.io/lessons/vue-js-stream-an-api-using-rxjs-into-a-vue-js-template)\n05. [Map Click Event Streams to Load Data with Vue.js and RxJS](https://egghead.io/lessons/vue-js-map-click-event-streams-to-load-data-with-vue-js-and-rxjs)\n06. [Split a Request into Data Stream and an Image Stream with RxJS and Vue.js](https://egghead.io/lessons/vue-js-split-a-request-into-data-stream-and-an-image-stream-with-rxjs-and-vue-js)\n07. [Handle Image Loading Errors in Vue.js with RxJS and domStreams](https://egghead.io/lessons/vue-js-handle-image-loading-errors-in-vue-js-with-rxjs-and-domstreams)\n08. [Switch to a Function which Creates Observables with Vue.js and Rxjs](https://egghead.io/lessons/vue-js-switch-to-a-function-which-creates-observables-with-vue-js-and-rxjs)\n09. [Catch Errors when Data Fails to Load with Vue.js and RxJS](https://egghead.io/lessons/vue-js-catch-errors-when-data-fails-to-load-with-vue-js-and-rxjs)\n10. [Share RxJS Streams to Avoid Multiple Requests in Vue.js](https://egghead.io/lessons/vue-js-share-rxjs-streams-to-avoid-multiple-requests-in-vue-js)\n11. [Disable Buttons While Data is Loading with RxJS and Vue.js](https://egghead.io/lessons/vue-js-disable-buttons-while-data-is-loading-with-rxjs-and-vue-js)\n12. [Pause Until Another Stream Completes with exhaustMap in RxJS and Vue.js](https://egghead.io/lessons/vue-js-pause-until-another-stream-completes-with-exhaustmap-in-rxjs-and-vue-js)\n13. [Pass Template Data Through domStreams in Vue.js and RxJS](https://egghead.io/lessons/vue-js-pass-template-data-through-domstreams-in-vue-js-and-rxjs)\n14. [Watch Vue.js v-models as Observable with $watchAsObservable and RxJS](https://egghead.io/lessons/vue-js-watch-vue-js-v-models-as-observable-with-watchasobservable-and-rxjs)\n15. [Sync Vue.js Components with Streaming Content using $watchAsObservable and RxJS](https://egghead.io/lessons/vue-js-sync-vue-js-components-with-streaming-content-using-watchasobservable-and-rxjs)\n16. [Map Vue.js Components to Remote Data Streams with RxJS](https://egghead.io/lessons/vue-js-map-vue-js-components-to-remote-data-streams-with-rxjs)\n17. [Use Promises with RxJS in Vue.js](https://egghead.io/lessons/vue-js-use-promises-with-rxjs-in-vue-js)\n18. [Cache Remote Data Requests with RxJS and Vue.js](https://egghead.io/lessons/vue-js-cache-remote-data-requests-with-rxjs-and-vue-js)\n19. [Optimize Bundle Size by Piping Operators with RxJS and Vue.js](https://egghead.io/lessons/vue-js-optimize-bundle-size-by-piping-operators-with-rxjs-and-vue-js)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 4,
+        "publishedAt": "2018-09-04T06:06:30.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "FjLxRQm9f18" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/FjLxRQm9f18/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/FjLxRQm9f18/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/FjLxRQm9f18/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/FjLxRQm9f18/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/FjLxRQm9f18/sddefault.jpg", "width": 640 }
+        },
+        "title": "Build Async Vue js Apps with RxJS"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "crKJ2hGcQ3Q", "videoPublishedAt": "2018-08-23T01:00:53.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jsm_sEGw2MfwsEKAxcsmCj6GRss\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4xMkVGQjNCMUM1N0RFNEUx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "End to End Testing with Google's Puppeteer and Jest\nhttps://egghead.io/courses/end-to-end-testing-with-google-s-puppeteer-and-jest\n\n\n[01 Course Introduction_ Testing with Puppeteer and Jest](https://egghead.io/lessons/puppeteer-course-introduction-testing-with-puppeteer-and-jest)\n[02 Setup and Install Dependencies for Testing with Google's Puppeteer](https://egghead.io/lessons/react-setup-and-install-dependencies-for-testing-with-google-s-puppeteer)\n[03 Test HTML Content on a Webpage with Puppeteer](https://egghead.io/lessons/react-test-html-content-on-a-webpage-with-puppeteer)\n[04 Replicate User Activity with Faker and Puppeteer](https://egghead.io/lessons/react-replicate-user-activity-with-faker-and-puppeteer)\n[05 Work with Document Cookies in Tests with Puppeteer](https://egghead.io/lessons/react-work-with-document-cookies-in-tests-with-puppeteer)\n[06 Check for Console Logs and Exceptions with Puppeteer](https://egghead.io/lessons/react-check-for-console-logs-and-exceptions-with-puppeteer)\n[07 Save Screenshots of Applications with Puppeteer](https://egghead.io/lessons/react-save-screenshots-of-applications-with-puppeteer)\n[08 Handle Page Requests in Tests with Puppeteer ](https://egghead.io/lessons/react-handle-page-requests-in-tests-with-puppeteer)\n[09 Visual Differing Tests with Puppeteer and PixelMatch](https://egghead.io/lessons/puppeteer-visual-differing-tests-with-puppeteer-and-pixelmatch)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 5,
+        "publishedAt": "2018-09-04T06:07:41.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "crKJ2hGcQ3Q" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/crKJ2hGcQ3Q/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/crKJ2hGcQ3Q/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/crKJ2hGcQ3Q/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/crKJ2hGcQ3Q/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/crKJ2hGcQ3Q/sddefault.jpg", "width": 640 }
+        },
+        "title": "End to End Testing with Google's Puppeteer and Jest"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "e5jG_bAXgVk", "videoPublishedAt": "2018-08-23T00:59:20.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zYh8aqHbz1CYfOtyZRKbOlvmSoE\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41MzJCQjBCNDIyRkJDN0VD",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Learn to Test React Components with Enzyme and Jest](https://egghead.io/courses/test-react-components-with-enzyme-and-jest)\n\n\n[01 Course Overview_ Testing React Components with Enzyme and Jest](https://egghead.io/lessons/react-course-overview-testing-react-components-with-enzyme-and-jest)\n[02 Install Enzyme and Configure Jest](https://egghead.io/lessons/react-install-enzyme-and-configure-jest)\n[03 Test Against Different React Releases with Enzyme](https://egghead.io/lessons/react-test-against-different-react-releases-with-enzyme)\n[04 Shallow Render a React Component with Enzyme](https://egghead.io/lessons/react-shallow-render-a-react-component-with-enzyme)\n[05 Find Nodes from a Shallow Rendered Component](https://egghead.io/lessons/react-find-nodes-from-a-shallow-rendered-component)\n[06 Understand the Different Accepted Selectors in Enzyme](https://egghead.io/lessons/react-understand-the-different-accepted-selectors-in-enzyme)\n[07 Test Enzyme Rendered Components with Jest Snapshots](https://egghead.io/lessons/react-test-enzyme-rendered-components-with-jest-snapshots)\n[08 Test React Component Props with Enzyme and Jest](https://egghead.io/lessons/react-test-react-component-props-with-enzyme-and-jest)\n[09 Fully Render React Components with Enzyme](https://egghead.io/lessons/react-fully-render-react-components-with-enzyme)\n[10 Test Simulated Event Handlers with Enzyme](https://egghead.io/lessons/react-test-simulated-event-handlers-with-enzyme)\n[11 Test New Component State with setState in Enzyme](https://egghead.io/lessons/react-test-new-component-state-with-setstate-in-enzyme)\n[12 Test React Component Lifecycle Methods with Enzyme](https://egghead.io/lessons/react-test-react-component-lifecycle-methods-with-enzyme)\n[13 Test React Component Methods with Enzyme](https://egghead.io/lessons/react-test-react-component-methods-with-enzyme)\n[14 Testing React Forms with Enzyme](https://egghead.io/lessons/react-testing-react-forms-with-enzyme)\n[15 Test Redux Connect Components with Enzyme](https://egghead.io/lessons/react-test-redux-connect-components-with-enzyme)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 6,
+        "publishedAt": "2018-09-04T06:07:46.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "e5jG_bAXgVk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/e5jG_bAXgVk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/e5jG_bAXgVk/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/e5jG_bAXgVk/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/e5jG_bAXgVk/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/e5jG_bAXgVk/sddefault.jpg", "width": 640 }
+        },
+        "title": "Learn to Test React Components with Enzyme and Jest"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "ORty0Qu8nVY", "videoPublishedAt": "2018-08-23T00:59:32.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_TylbpNJ-EXuLGCKxL8m7yCBGmU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DQUNERDQ2NkIzRUQxNTY1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Safer JavaScript with the Maybe Type](https://egghead.io/courses/safer-javascript-with-the-maybe-type)\n\n[01 Safer JavaScript with the Maybe type](https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type)\n[02 Understand the Maybe Data Type](https://egghead.io/lessons/javascript-understand-the-maybe-data-type)\n[03 Create a Maybe with a safe Utility Function](https://egghead.io/lessons/javascript-create-a-maybe-with-a-safe-utility-function)\n[04 Unwrap Values from a Maybe](https://egghead.io/lessons/javascript-unwrap-values-from-a-maybe)\n[05 Safely Access Object Properties with prop](https://egghead.io/lessons/javascript-safely-access-object-properties-with-prop)\n[06 Safely Access Nested Object Properties with propPath](https://egghead.io/lessons/javascript-safely-access-nested-object-properties-with-proppath)\n[07 Flatten Nested Maybes with `chain`](https://egghead.io/lessons/javascript-flatten-nested-maybes-with-chain)\n[08 Recover from a Nothing with the `alt` method](https://egghead.io/lessons/javascript-recover-from-a-nothing-with-the-alt-method)\n[09 Recover from a Nothing with the `coalesce` Method](https://egghead.io/lessons/javascript-recover-from-a-nothing-with-the-coalesce-method)\n[10 Compose Functions for Reusability with the Maybe Type](https://egghead.io/lessons/javascript-compose-functions-for-reusability-with-the-maybe-type)\n[11 Apply a function in a Maybe context to Maybe inputs](https://egghead.io/lessons/javascript-apply-a-function-in-a-maybe-context-to-maybe-inputs)\n[12 Make your own functions safer by lifting them into a Maybe context](https://egghead.io/lessons/javascript-make-your-own-functions-safer-by-lifting-them-into-a-maybe-context)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 7,
+        "publishedAt": "2018-09-04T06:07:52.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "ORty0Qu8nVY" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/ORty0Qu8nVY/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/ORty0Qu8nVY/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/ORty0Qu8nVY/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/ORty0Qu8nVY/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/ORty0Qu8nVY/sddefault.jpg", "width": 640 }
+        },
+        "title": "Safer JavaScript with the Maybe Type"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "efJ1HPpsZtw", "videoPublishedAt": "2018-08-30T10:43:45.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/aMFMPkciqPn83Ei5P8Sx8gd7Elk\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45NDk1REZENzhEMzU5MDQz",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Advanced Asynchronous JavaScript](https://frontendmasters.com/courses/advanced-async-js/)\n\n101. Introducing Advanced Asynchronous JavaScript\n200. Minimal Observable Implemetation\n    201. Observable Interface Changes\n    202. Multiple Subscribes to One Observable\n    203. Q&A - Hot Observables\n    204. Data Stream into Hot Observable\n    205. Events into te Observer\n    206. Challenge 1 - Map for Observables\n    207. Challenge 1 - Solution\n    208. Passing Subscriptions\n    209. Filter for Observables\n300. Animations Allowed Problem\n    301. Introducing the _Animations Allowed_ Problem\n    302. Taking Stock of Resources\n    303. observables.shift and Recursion\n    304. Helper Functions\n    305. QA - Multi-dimantional Observables\n    306. Challenge 2 - Animations Allowed\n    307. Challenge 2 - Solution\n    308. Challenge 2 - Solution 2\n    309. Error Handling\n    310. Cancellation and Promises\n    311. Catching Specific Errors\n400. Reddit Image Viewer App\n    401. Challenge 3 - Reddit Image Viewer App\n    402. Challenge 3 - Solution\n    403. Image Viewer Streams\n    404. Getting Images\n    405. Picking an Image\n    406. Debugging Observables\n    407. Challenge 4 - Preloading Images\n    408. Challenge 4 - Solution\n    409. Indices and Switching Subs\n500. Q&A\n    501. Preloading with Callback\n    502. Unsubscribe Methods, onError\n    503. Subjects and Replays\n    504. Async Interators\n    505. Redux\n    506. Time Travel in redux and Scheduler Class\n    507. JavaScript Standardization\n    508. testing Observables and Wrapping Up",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 8,
+        "publishedAt": "2018-09-04T06:07:55.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "efJ1HPpsZtw" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/efJ1HPpsZtw/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/efJ1HPpsZtw/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/efJ1HPpsZtw/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/efJ1HPpsZtw/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/efJ1HPpsZtw/sddefault.jpg", "width": 640 }
+        },
+        "title": "Advanced Asynchronous JavaScript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "QvUBZdQ-QPU", "videoPublishedAt": "2018-08-23T01:01:13.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/_SkA2tLoqck6s_ZZYcSbpsp0woQ\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5GNjNDRDREMDQxOThCMDQ2",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Functional Programming Concepts in Purescript](\nhttps://egghead.io/courses/functional-programming-concepts-in-purescript)\n\n01. [Introduction - Functional programming concepts in PureScript](https://egghead.io/lessons/purescript-introduction-functional-programming-concepts-in-purescript)\n02. [Specify Function Arguments using Types in PureScript](https://egghead.io/lessons/purescript-specify-function-arguments-using-types-in-purescript)\n03. [Use One Function Argument at a Time with Currying and Partial Application in PureScript](https://egghead.io/lessons/purescript-use-one-function-argument-at-a-time-with-currying-and-partial-application-in-purescript)\n04. [Basic Data Constructors in PureScript](https://egghead.io/lessons/purescript-basic-data-constructors-in-purescript)\n05. [Break up Expressions into Cases in PureScript using Simple Pattern Matching](https://egghead.io/lessons/purescript-break-up-expressions-into-cases-in-purescript-using-simple-pattern-matching)\n06. [Types Alias and Instances in PureScript](https://egghead.io/lessons/purescript-types-alias-and-instances-in-purescript)\n07. [Recursion in Purescript](https://egghead.io/lessons/purescript-recursion-in-purescript)\n08. [Creating your own length function using recursion in Purescript](https://egghead.io/lessons/purescript-creating-your-own-length-function-using-recursion-in-purescript)\n09. [Algebraic data type in PureScript and Show instance](https://egghead.io/lessons/purescript-algebraic-data-type-in-purescript-and-show-instance)\n10. [Lists and Infix operators in PureScript](https://egghead.io/lessons/purescript-lists-and-infix-operators-in-purescript)\n11. [Functor and map in PureScript](https://egghead.io/lessons/purescript-functor-and-map-in-purescript)\n12. [Filter in PureScript](https://egghead.io/lessons/purescript-filter-in-purescript)\n13. [Concat and ConcatMap in PureScript](https://egghead.io/lessons/purescript-concat-and-concatmap-in-purescript)\n14. [Foldl in PureScript](https://egghead.io/lessons/purescript-foldl-in-purescript)\n15. [Making functions using foldl in PureScript](https://egghead.io/lessons/purescript-making-functions-using-foldl-in-purescript)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 9,
+        "publishedAt": "2018-09-04T06:07:58.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "QvUBZdQ-QPU" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/QvUBZdQ-QPU/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/QvUBZdQ-QPU/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/QvUBZdQ-QPU/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/QvUBZdQ-QPU/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/QvUBZdQ-QPU/sddefault.jpg", "width": 640 }
+        },
+        "title": "Functional Programming Concepts in Purescript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "nhNFZ91vzkk", "videoPublishedAt": "2018-08-23T01:00:20.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TCqQbZvCcz3M3tGcMi3lOXsPR98\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi40NzZCMERDMjVEN0RFRThB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/build-a-server-rendered-reactjs-application-with-next-js\n\n01 [Introducing Build a Server-rendered ReactJS application with Next.js](https://egghead.io/lessons/next-js-introducing-build-a-server-rendered-reactjs-application-with-next-js)\n02 [Render Text within a Server-side ReactJS App with Next.js](https://egghead.io/lessons/react-render-text-within-a-server-side-reactjs-app-with-next-js)\n03 [Implement a custom Material-UI theme on the server using a Higher-order component](https://egghead.io/lessons/react-implement-a-custom-material-ui-theme-on-the-server-using-a-higher-order-component)\n04 [Render Material-UI Components with Next.js](https://egghead.io/lessons/react-render-material-ui-components-with-next-js)\n05 [Populate A Next.js Application with Data using Async/Await](https://egghead.io/lessons/react-populate-a-next-js-application-with-data-using-async-await)\n06 [Create custom routes within Next.js using ExpressJS](https://egghead.io/lessons/express-create-custom-routes-within-next-js-using-expressjs)\n07 [Dynamically Instantiate Routes on Id with Next.js & ExpressJS](https://egghead.io/lessons/express-dynamically-instantiate-routes-on-id-with-next-js-expressjs)\n08 [Leverage Next.js' getInitialProps lifecycle hook to load individual posts](https://egghead.io/lessons/react-leverage-next-js-getinitialprops-lifecycle-hook-to-load-individual-posts)\n09 [Style Next.js Application's using CSS-in-JS and styled-jsx](https://egghead.io/lessons/next-js-style-next-js-application-s-using-css-in-js-and-styled-jsx)\n10 [Deploy a Next.js Application to the web with the `now-cli`](https://egghead.io/lessons/react-deploy-a-next-js-application-to-the-web-with-the-now-cli)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 10,
+        "publishedAt": "2018-09-04T06:08:01.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "nhNFZ91vzkk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/nhNFZ91vzkk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/nhNFZ91vzkk/hqdefault.jpg", "width": 480 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/nhNFZ91vzkk/mqdefault.jpg", "width": 320 }
+        },
+        "title": "Build a Server rendered ReactJS Application with Next js"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "z8-8kb4QLk4", "videoPublishedAt": "2018-08-23T00:59:48.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Uh6STxBS-Av0cBUKgHkqxQjYTyg\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5EMEEwRUY5M0RDRTU3NDJC",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/build-react-components-from-streams-with-rxjs-and-recompose",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 11,
+        "publishedAt": "2018-09-04T06:08:04.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "z8-8kb4QLk4" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/z8-8kb4QLk4/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/z8-8kb4QLk4/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/z8-8kb4QLk4/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/z8-8kb4QLk4/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/z8-8kb4QLk4/sddefault.jpg", "width": 640 }
+        },
+        "title": "Build React Components from Streams with RxJS and Recompose"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "aCH2uKQ1fkc", "videoPublishedAt": "2018-08-23T01:00:59.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/5Dz8WqD5HdZWTz96jR5_tdoiNkg\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45ODRDNTg0QjA4NkFBNkQy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/async-react-with-redux-saga",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 12,
+        "publishedAt": "2018-09-04T06:08:06.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "aCH2uKQ1fkc" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/aCH2uKQ1fkc/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/aCH2uKQ1fkc/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/aCH2uKQ1fkc/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/aCH2uKQ1fkc/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/aCH2uKQ1fkc/sddefault.jpg", "width": 640 }
+        },
+        "title": "Async React with Redux Saga"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "uBKXD5GMydw", "videoPublishedAt": "2018-08-23T01:00:00.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/v6vSp0R_sw2xzdoaP00Ig-pzHRs\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4zMDg5MkQ5MEVDMEM1NTg2",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/manage-application-state-with-mobx-state-tree",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 13,
+        "publishedAt": "2018-09-04T06:08:09.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "uBKXD5GMydw" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/uBKXD5GMydw/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/uBKXD5GMydw/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/uBKXD5GMydw/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/uBKXD5GMydw/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/uBKXD5GMydw/sddefault.jpg", "width": 640 }
+        },
+        "title": "Manage Application State with Mobx state tree"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "dYyaWwSf-4c", "videoPublishedAt": "2018-08-23T01:00:45.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/RTJmds8mUJN-rfXPfIX81Q09mNg\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41Mzk2QTAxMTkzNDk4MDhF",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/state-monad-in-javascript",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 14,
+        "publishedAt": "2018-09-04T06:08:12.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "dYyaWwSf-4c" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/dYyaWwSf-4c/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/dYyaWwSf-4c/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/dYyaWwSf-4c/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/dYyaWwSf-4c/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/dYyaWwSf-4c/sddefault.jpg", "width": 640 }
+        },
+        "title": "State Monad in JavaScript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "t2Ncoi5_tXE", "videoPublishedAt": "2018-08-23T01:00:08.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/rQp3zq26kTYGOXt6JF0DKD1nzv8\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5EQUE1NTFDRjcwMDg0NEMz",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/advanced-fine-grained-control-of-vue-js-components",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 15,
+        "publishedAt": "2018-09-04T06:08:14.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "t2Ncoi5_tXE" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/t2Ncoi5_tXE/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/t2Ncoi5_tXE/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/t2Ncoi5_tXE/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/t2Ncoi5_tXE/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/t2Ncoi5_tXE/sddefault.jpg", "width": 640 }
+        },
+        "title": "Advanced Fine Grained Control of Vue js Components"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "BRq1sd_ta7g", "videoPublishedAt": "2018-08-23T01:01:42.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/UxKCTPjKYIAWPjraLSdNkxolRII\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41QTY1Q0UxMTVCODczNThE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 16,
+        "publishedAt": "2018-09-04T06:08:18.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "BRq1sd_ta7g" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/BRq1sd_ta7g/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/BRq1sd_ta7g/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/BRq1sd_ta7g/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/BRq1sd_ta7g/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/BRq1sd_ta7g/sddefault.jpg", "width": 640 }
+        },
+        "title": "How to Use npm Scripts as Your Build Tool - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "bWmlaYgbRWo", "videoPublishedAt": "2018-08-23T01:00:56.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MVAxnHFpsxEHlrr9CfLj_vnjqS8\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4yMUQyQTQzMjRDNzMyQTMy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/build-a-server-rendered-code-split-app-in-react-with-react-universal-component",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 17,
+        "publishedAt": "2018-09-04T06:08:31.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "bWmlaYgbRWo" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/bWmlaYgbRWo/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/bWmlaYgbRWo/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/bWmlaYgbRWo/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/bWmlaYgbRWo/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/bWmlaYgbRWo/sddefault.jpg", "width": 640 }
+        },
+        "title": "Build a Server Rendered + Code Split App in React with React Universal Component - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "e2L7ONohBWw", "videoPublishedAt": "2018-08-23T01:00:37.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7Q5nQHtckVNPxEHPRgakWSB_DSM\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45RTgxNDRBMzUwRjQ0MDhC",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/use-typescript-to-develop-react-applications",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 18,
+        "publishedAt": "2018-09-04T06:08:36.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "e2L7ONohBWw" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/e2L7ONohBWw/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/e2L7ONohBWw/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/e2L7ONohBWw/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/e2L7ONohBWw/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/e2L7ONohBWw/sddefault.jpg", "width": 640 }
+        },
+        "title": "Use TypeScript to develop React Applications"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "wq_l-MHESc4", "videoPublishedAt": "2018-08-23T00:59:54.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/bs2BeBUs0emNKdJKj4MblJcjjr0\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5ENDU4Q0M4RDExNzM1Mjcy",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/make-webpack-easy-with-poi",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 19,
+        "publishedAt": "2018-09-04T06:08:41.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "wq_l-MHESc4" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/wq_l-MHESc4/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/wq_l-MHESc4/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/wq_l-MHESc4/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/wq_l-MHESc4/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/wq_l-MHESc4/sddefault.jpg", "width": 640 }
+        },
+        "title": "Make Webpack Easy with Poi"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "SaNRNPkoB5o", "videoPublishedAt": "2017-12-10T06:42:02.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Lu3Fcfvwliux7a-P4gBNIXjUyaU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4yMDhBMkNBNjRDMjQxQTg1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 20,
+        "publishedAt": "2018-09-04T06:08:47.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "SaNRNPkoB5o" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/SaNRNPkoB5o/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/SaNRNPkoB5o/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/SaNRNPkoB5o/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/SaNRNPkoB5o/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/SaNRNPkoB5o/sddefault.jpg", "width": 640 }
+        },
+        "title": "AWS DynamoDB Deep Dive - Pluralsight"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "8eh5G3iF3oI", "videoPublishedAt": "2018-08-23T01:01:46.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/mvhgyBoGUkHtBFpunary_WrkZoU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5GM0Q3M0MzMzY5NTJFNTdE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/understand-joins-and-unions-in-postgres",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 21,
+        "publishedAt": "2018-09-04T06:08:52.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "8eh5G3iF3oI" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/8eh5G3iF3oI/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/8eh5G3iF3oI/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/8eh5G3iF3oI/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/8eh5G3iF3oI/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/8eh5G3iF3oI/sddefault.jpg", "width": 640 }
+        },
+        "title": "Understand Joins and Unions in Postgres - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "v_Uquy2fTBY", "videoPublishedAt": "2018-08-23T00:59:16.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JDwrnQ0pnXdhsP7BK0IXjeIAlVo\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4zRjM0MkVCRTg0MkYyQTM0",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Get Started With PostgreSQL](https://egghead.io/courses/get-started-with-postgresql)\n\n01.Create a Postgres Table\n02.Insert Data into Postgres Tables\n03.Filter Data in a Postgres Table with Query Statements\n04.Update Data in Postgres\n05.Delete Postgres Records\n06.Group and Aggregate Data in Postgres\n07.Sort Postgres Tables\n08.Ensure Uniqueness in Postgres\n09.Use Foreign Keys to Ensure Data Integrity in Postgres\n10.Create Foreign Keys Across Multiple Fields in Postgres\n11.Enforce Custom Logic with Check Constraints in Postgres\n12.Speed Up Postgres Queries with Indexes\n13.Find Intersecting Data with Postgres Inner Join\n14.Select Distinct Data in Postgres",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 22,
+        "publishedAt": "2018-09-04T06:08:56.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "v_Uquy2fTBY" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/v_Uquy2fTBY/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/v_Uquy2fTBY/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/v_Uquy2fTBY/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/v_Uquy2fTBY/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/v_Uquy2fTBY/sddefault.jpg", "width": 640 }
+        },
+        "title": "Get Started With PostgreSQL - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "J1O9XsFXVas", "videoPublishedAt": "2018-08-23T01:01:32.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dGDxsxemYv3AZvTqXOTraRXRKHc\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45NzUwQkI1M0UxNThBMkU0",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/advanced-react-component-patterns\n\n00:00 Course Overview\n02:05 Build a Toggle Component\n03:25 Write Compound Components\n05:11 Make Compound React Components Flexible\n07:25 Validate Compound Component Context Consumers\n09:47 Prevent Unnecessary Rerenders of Compound Components using React Context\n11:24 Use Render Props with React\n14:50 Use Prop Collections with Render Props\n15:56 Use Prop Getters with Render Props\n21:11 Use Component State Initializers\n23:48 Implement Component State Reducers\n27:22 Improve the usability of Component State Reducers with state change types\n31:25 Make Controlled React Components with Control Props\n33:50 Support Control Props for all state\n34:56 Support a state change handler for all control props\n41:12 Improve the usability of Control Props with state change types\n45:58 Implement the Provider Pattern with React Context\n51:19 Implement a Higher Order Component",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 23,
+        "publishedAt": "2018-09-04T06:09:27.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "J1O9XsFXVas" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/J1O9XsFXVas/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/J1O9XsFXVas/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/J1O9XsFXVas/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/J1O9XsFXVas/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/J1O9XsFXVas/sddefault.jpg", "width": 640 }
+        },
+        "title": "Advanced React Component Patterns"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "9mnRkMZl4WU", "videoPublishedAt": "2018-08-23T00:59:37.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fe0H1LWXcnZZ-wZ19COxKWI592Y\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DNzE1RjZEMUZCMjA0RDBB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/the-beginner-s-guide-to-react",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 24,
+        "publishedAt": "2018-09-04T06:09:31.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "9mnRkMZl4WU" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/9mnRkMZl4WU/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/9mnRkMZl4WU/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/9mnRkMZl4WU/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/9mnRkMZl4WU/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/9mnRkMZl4WU/sddefault.jpg", "width": 640 }
+        },
+        "title": "The Beginner's Guide to ReactJS"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "ig96nyeUFMM", "videoPublishedAt": "2018-08-23T00:58:59.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/YaLOH1GtPk9sAOYo6Cm6kFN-RwE\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi43MTI1NDIwOTMwQjIxMzNG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/build-a-twelve-factor-node-js-app-with-docker",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 25,
+        "publishedAt": "2018-09-04T06:10:01.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "ig96nyeUFMM" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/ig96nyeUFMM/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/ig96nyeUFMM/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/ig96nyeUFMM/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/ig96nyeUFMM/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/ig96nyeUFMM/sddefault.jpg", "width": 640 }
+        },
+        "title": "Build a Twelve Factor Node js App with Docker - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "O-hzzUX0hZM", "videoPublishedAt": "2018-08-23T01:01:18.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jzH12iq5pTZTqTnLOsGmxssV748\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DQ0MyQ0Y4Mzg0M0VGOEYw",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/introduction-to-the-python-3-programming-language",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 26,
+        "publishedAt": "2018-09-04T06:10:03.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "O-hzzUX0hZM" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/O-hzzUX0hZM/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/O-hzzUX0hZM/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/O-hzzUX0hZM/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/O-hzzUX0hZM/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/O-hzzUX0hZM/sddefault.jpg", "width": 640 }
+        },
+        "title": "Introduction to the Python 3 Programming Language - egghead"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "oI6DhPVpa7Y", "videoPublishedAt": "2018-08-31T05:09:15.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QY38oCQIu2h0CX3oQsN44DeJc-o\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DMkU4NTY1QUFGQTYwMDE3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://www.packtpub.com/application-development/introduction-go-classical-patterns-video",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 27,
+        "publishedAt": "2018-09-04T06:10:13.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "oI6DhPVpa7Y" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/oI6DhPVpa7Y/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/oI6DhPVpa7Y/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/oI6DhPVpa7Y/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/oI6DhPVpa7Y/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/oI6DhPVpa7Y/sddefault.jpg", "width": 640 }
+        },
+        "title": "Introduction to Go Classical Patterns - Packt"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "68dwHUa_XYo", "videoPublishedAt": "2018-08-31T05:09:15.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PisGEw0SiKvOHpMiBn0nbFQuW3U\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi44Mjc5REFBRUE2MTdFRDU0",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 28,
+        "publishedAt": "2018-09-04T06:10:17.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "68dwHUa_XYo" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/68dwHUa_XYo/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/68dwHUa_XYo/hqdefault.jpg", "width": 480 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/68dwHUa_XYo/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/68dwHUa_XYo/sddefault.jpg", "width": 640 }
+        },
+        "title": "CSS Grids and Flexbox in Responsive Web Design"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "OU2W8ViGr6U", "videoPublishedAt": "2018-08-31T05:09:15.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/wU88k9DKo3DUWQcEaooFXuzvbyU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi43NDhFRTgwOTRERTU4Rjg3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://frontendmasters.com/workshops/git-indepth/",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 29,
+        "publishedAt": "2018-09-04T06:10:40.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "OU2W8ViGr6U" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/OU2W8ViGr6U/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/OU2W8ViGr6U/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/OU2W8ViGr6U/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/OU2W8ViGr6U/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/OU2W8ViGr6U/sddefault.jpg", "width": 640 }
+        },
+        "title": "Git In depth"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "l11EEChy8Ig", "videoPublishedAt": "2018-08-23T01:00:28.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HjTwpf4GsftME3tqF6UVMHBFINA\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41QUZGQTY5OTE4QTREQUU4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 30,
+        "publishedAt": "2018-09-04T06:11:02.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "l11EEChy8Ig" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/l11EEChy8Ig/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/l11EEChy8Ig/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/l11EEChy8Ig/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/l11EEChy8Ig/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/l11EEChy8Ig/sddefault.jpg", "width": 640 }
+        },
+        "title": "Understand JavaScript's this Keyword in Depth"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "NL5OxXCW-1k", "videoPublishedAt": "2018-09-14T15:59:39.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4yxZN-j7jmO3TXlyRiYl1mY5FaY\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4zRDBDOEZDOUM0MDY5NEEz",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Synaptic is a free and open-source JavaScript library for building neural networks that run everywhere JavaScript runs. In this, the opening session on building neural networks with JavaScript, Eric Greene explains how to use Synaptic to build a basic neural network. He also explains what neural networks are and how they work, and why software developers everywhere should care.\n\nTable of Contents\n00:00:00 Introduction\n00:01:53 Overview of Neural Networks\n00:09:04 Using Synaptic\n00:13:35 Configuring Synaptic (Demo)\n00:19:43 Neurons\n00:35:37 Creating and Using Neurons (Demo)\n00:49:10 Many Neurons: The Layer\n00:55:30 Creating and Connecting Layers of Neurons (Demo)\n01:02:19 Using Architect to Build a Network\n01:05:55 Creating a Perceptron (Demo)\n01:13:35 Using Trainer to Train a Network\n01:16:35 Training the Perceptron (Demo)\n01:19:06 Using the Trained Network\n01:21:27 Using the Network (Demo)\n01:26:12 Conclusion",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 31,
+        "publishedAt": "2018-09-04T06:11:39.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "NL5OxXCW-1k" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/NL5OxXCW-1k/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/NL5OxXCW-1k/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/NL5OxXCW-1k/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/NL5OxXCW-1k/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/NL5OxXCW-1k/sddefault.jpg", "width": 640 }
+        },
+        "title": "Getting Started with Synaptic"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "9E2whGe9eqA", "videoPublishedAt": "2018-09-19T01:21:56.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/EJ4jb7l7LMEmH2N9p55ypFyH3Tg\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5CMEQ2Mjk5NTc3NDZFRUNB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Design Systems with React and Typescript in Storybook](https://egghead.io/courses/design-systems-with-react-and-typescript-in-storybook)\n\n01. [Introducing Design Systems with React and Typescript in Storybook.](https://egghead.io/lessons/react-introducing-design-systems-with-react-and-typescript-in-storybook)\n02. [Set up Storybook for React from Scratch.](https://egghead.io/lessons/react-set-up-storybook-for-react-from-scratch)\n03. [Add your first React Story to Storybook.](https://egghead.io/lessons/react-add-your-first-react-story-to-storybook)\n04. [Add a Welcome Page with Sequential Stories to a React Storybook.](https://egghead.io/lessons/react-add-a-welcome-page-with-sequential-stories-to-a-react-storybook)\n05. [Display the JSX of a React Storybook Story with the JSX Addon.](https://egghead.io/lessons/react-display-the-jsx-of-a-react-storybook-story-with-the-jsx-addon)\n06. [Apply Style to a React StoryBook with the Info addon to Turn Stories into Documentation.](https://egghead.io/lessons/react-apply-style-to-a-react-storybook-with-the-info-addon-to-turn-stories-into-documentation)\n07. [Create Interactive Storybook Stories with the Knobs Decorator.](https://egghead.io/lessons/react-create-interactive-storybook-stories-with-the-knobs-decorator)\n08. [Configure React Storybook for use with Typescript.](https://egghead.io/lessons/react-configure-react-storybook-for-use-with-typescript)\n09. [Automate Documentation Generation in your Typescript React Codebase with Storybook.](https://egghead.io/lessons/react-automate-documentation-generation-in-your-typescript-react-codebase-with-storybook)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 32,
+        "publishedAt": "2018-09-19T01:21:58.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "9E2whGe9eqA" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/9E2whGe9eqA/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/9E2whGe9eqA/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/9E2whGe9eqA/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/9E2whGe9eqA/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/9E2whGe9eqA/sddefault.jpg", "width": 640 }
+        },
+        "title": "Design Systems with React and Typescript in Storybook"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "I1Z8XzHEEzk", "videoPublishedAt": "2018-09-19T03:04:31.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MLMTZYv-UP8KGa9V3VOhEvpK0iA\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi42MTI4Njc2QjM1RjU1MjlG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Design Patterns in TypeScript](https://www.packtpub.com/application-development/design-patterns-typescript-video)\n\nCode: https://github.com/PacktPublishing/Design-Patterns-in-TypeScript\n\n1. SOLID PRINCIPLES\n1.1 The Course Overview\n1.2 Introduction to SOLID\n1.3 The Single Responsibility Principle\n1.4 The Open/Closed Principle\n1.5 The Liskov Substitution Principle\n1.6 The Interface Segregation Principle\n1.7 The Dependency Inversion Principle\n\n2. CREATIONAL DESIGN PATTERNS\n2.1 Introduction to Design Patterns\n2.2 The Singleton Pattern\n2.3 The Factory Pattern\n2.4 Loose Coupling\n2.5 The Object Pool\n\n3. DEPENDENCY INJECTION\n3.1 Introduction to Dependency Injection\n3.2 Creating a Custom Container\n3.3 Introduction to Decorators\n3.4 Adding Decorators to Our Container\n3.5 Introducing InversifyJS\n\n4. STRUCTURAL DESIGN PATTERNS\n4.1 The Decorator Pattern\n4.2 The Adapter Pattern – Part 1\n4.3 The Adapter Pattern – Part 2\n4.4 The Facade Pattern\n4.5 The Composite Pattern\n\n5. BEHAVIORAL PATTERNS\n5.1 The Strategy Pattern\n5.2 The Observer Pattern\n5.3 The Command Pattern\n5.4 The Template Method\n5.5 The State Pattern",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 33,
+        "publishedAt": "2018-09-19T01:39:43.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "I1Z8XzHEEzk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/sddefault.jpg", "width": 640 }
+        },
+        "title": "Design Patterns in TypeScript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "kG-X0iyQkU4", "videoPublishedAt": "2018-09-19T02:50:25.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/n8Vq9KqWWsQ6EcHFgnH0IMR0I3o\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45RjNFMDhGQ0Q2RkFCQTc1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Introduction to Data Structures for Interviews](https://frontendmasters.com/courses/data-structures-interviews/)\n\nSlide https://slides.com/bgando/intro-to-ds-1\n\n* 1. Introduction\n    - 1. Series Overview.mp4\n    - 2. Interview Process.mp4\n    - 3. Common Interview Mistakes.mp4\n    - 4. Interview Questions Q&A.mp4\n    - 5. Data Structure.mp4\n    - 6. Course Overview.mp4\n\n* 2. Data Structures Overview\n    - 1. Types of Data Structures.mp4\n    - 2. Stacks & Queues.mp4\n    - 3. Linked List Introduction.mp4\n    - 4. Linked List Demo.mp4\n    - 5. Link List Use Cases.mp4\n    - 6. Draw Stacks, Queues & Linked Lists.mp4\n    - 7. Stacks, Queues & Linked Lists Drawings.mp4\n    - 8. Hash Tables.mp4\n    - 9. Hash Tables Use Cases, Arrays & Strings.mp4\n    - 10. Draw Hash Tables, Array & Strings.mp4\n\n* 3. Stack Data Structures\n    - 1. Overview & Stack Exercise.mp4\n    - 2. Exercise Prep Q&A.mp4\n    - 3. Stack - Push & Pop Methods.mp4\n    - 4. Stack - Edge Cases.mp4\n    - 5. Stack - Peek Method.mp4\n    - 6. Stack - Q&A.mp4\n\n* 4. Queue Data Structures\n    - 1. Queue Exercise.mp4\n    - 2. Queue - Method Usage.mp4\n    - 3. Queue - Enqueue & Dequeue.mp4\n    - 4. Queue - Q&A.mp4\n\n* 5. Linked List Data Structures\n    - 1. Linked List Exercise.mp4\n    - 2. Linked List - Usage & Constructor.mp4\n    - 3. Linked List - Insert Method.mp4\n    - 4. Linked List - Insert Q&A.mp4\n    - 5. Linked List - Remove Tail.mp4\n    - 6. Linked List - Q&A.mp4\n    - 7. Linked List - Head, Tail & Contains.mp4\n    - 8. Linked List Commentary.mp4\n\n* 6. Hash Table Data Structures\n    - 1. Hash Table Exercise.mp4\n    - 2. Hash Table - Usage, Constructor & Insert.mp4\n    - 3. Hash Table - Retrieve.mp4\n    - 4. Hash Table - Remove.mp4\n\n* 7. Common Interview Questions\n    - 1. Overview.mp4\n    - 2. Stack & Queue.mp4\n    - 3. Linked List.mp4\n    - 4. Hash Table, Array & String.mp4\n\n* 8. Course Review\n    - 1. Common Operations.mp4\n    - 2. Data Structures Overview.mp4\n    - 3. Other Considerations.mp4\n    - 4. Additional Resources.mp4",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 34,
+        "publishedAt": "2018-09-19T01:56:24.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "kG-X0iyQkU4" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/kG-X0iyQkU4/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/kG-X0iyQkU4/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/kG-X0iyQkU4/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/kG-X0iyQkU4/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/kG-X0iyQkU4/sddefault.jpg", "width": 640 }
+        },
+        "title": "Introduction to Data Structures for Interviews"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "I1Z8XzHEEzk", "videoPublishedAt": "2018-09-19T03:04:31.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vhgGZLNjy03C7Os92Ez-cNwdaj8\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi40QTA3NTU2RkM1QzlCMzYx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "[Design Patterns in TypeScript](https://www.packtpub.com/application-development/design-patterns-typescript-video)\n\nCode: https://github.com/PacktPublishing/Design-Patterns-in-TypeScript\n\n1. SOLID PRINCIPLES\n1.1 The Course Overview\n1.2 Introduction to SOLID\n1.3 The Single Responsibility Principle\n1.4 The Open/Closed Principle\n1.5 The Liskov Substitution Principle\n1.6 The Interface Segregation Principle\n1.7 The Dependency Inversion Principle\n\n2. CREATIONAL DESIGN PATTERNS\n2.1 Introduction to Design Patterns\n2.2 The Singleton Pattern\n2.3 The Factory Pattern\n2.4 Loose Coupling\n2.5 The Object Pool\n\n3. DEPENDENCY INJECTION\n3.1 Introduction to Dependency Injection\n3.2 Creating a Custom Container\n3.3 Introduction to Decorators\n3.4 Adding Decorators to Our Container\n3.5 Introducing InversifyJS\n\n4. STRUCTURAL DESIGN PATTERNS\n4.1 The Decorator Pattern\n4.2 The Adapter Pattern – Part 1\n4.3 The Adapter Pattern – Part 2\n4.4 The Facade Pattern\n4.5 The Composite Pattern\n\n5. BEHAVIORAL PATTERNS\n5.1 The Strategy Pattern\n5.2 The Observer Pattern\n5.3 The Command Pattern\n5.4 The Template Method\n5.5 The State Pattern",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 35,
+        "publishedAt": "2018-09-19T02:50:15.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "I1Z8XzHEEzk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/I1Z8XzHEEzk/sddefault.jpg", "width": 640 }
+        },
+        "title": "Design Patterns in TypeScript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "zoUDE6AJXY4", "videoPublishedAt": "2018-10-09T13:47:10.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/B_hiATGH2yXku0saiup1-b00U-k\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4zQzFBN0RGNzNFREFCMjBE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://frontendmasters.com/courses/chrome-dev-tools-v2/",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 36,
+        "publishedAt": "2018-10-09T13:03:18.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "zoUDE6AJXY4" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/zoUDE6AJXY4/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/zoUDE6AJXY4/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/zoUDE6AJXY4/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/zoUDE6AJXY4/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/zoUDE6AJXY4/sddefault.jpg", "width": 640 }
+        },
+        "title": "Mastering Chrome Developer Tools v2"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "_kZ-IvR8f1o", "videoPublishedAt": "2018-10-11T03:06:00.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fXhsUm_rwpjCbRkj0BkMI_HYOjk\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi45NkVENTkxRDdCQUFBMDY4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Understanding JavaScript's Prototypal Inheritance\nhttps://egghead.io/courses/understanding-javascript-s-prototypal-inheritance\n\n01. 00:00 Introduction to Prototypal Inheritance in JavaScript\n02. 01:06 Link to Other Objects through the JavaScript Prototype Chain\n03. 03:40 Prototype Delegation with JavaScript's new Keyword\n04. 06:53 Understanding the .constructor property on JavaScript Objects\n05. 08:44 Understand JavaScripts this keyword within Prototypes\n06. 11:11 Use JavaScript's for-in Loop on Objects with Prototypes\n07. 12:55 Compose Objects with Object.assign to Create a Direct Copy\n08. 15:09 Understanding Prototype Delegation within JavaScript's Class Keyword\n09. 18:00 Assign and Access Methods of a JavaScript Class with Static Properties\n10. 19:17 Determine an Object's Constructor with JavaScripts instanceof Operator\n11. 20:49 Create Factory Functions for Object Composition\n12. 23:37 Use Polymorphism with Prototype Linked Objects\n13. 26:05 Replicate JavaScript Constructor Inheritance with Simple Objects (OLOO)",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 37,
+        "publishedAt": "2018-10-11T03:02:35.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "_kZ-IvR8f1o" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/_kZ-IvR8f1o/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/_kZ-IvR8f1o/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/_kZ-IvR8f1o/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/_kZ-IvR8f1o/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/_kZ-IvR8f1o/sddefault.jpg", "width": 640 }
+        },
+        "title": "Understanding JavaScript's Prototypal Inheritance"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "e56W2T51Wg0", "videoPublishedAt": "2018-10-12T03:00:02.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NDVW_nvK40lkFl4suDY-niIh2i8\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DNkMwRUI2MkI4QkI4NDFG",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Beautiful and Accessible Drag and Drop with react-beautiful-dnd\nhttps://egghead.io/courses/beautiful-and-accessible-drag-and-drop-with-react-beautiful-dnd\n\n01. 00:00 Beautiful and Accessible Drag and Drop with react-beautiful-dnd\n02. 00:58 Set up a React Environment with create-react-app\n03. 02:19 Create and Style a List of Data with React\n04. 09:56 Reorder a List with react-beautiful-dnd\n05. 18:08 Persist List Reordering with react-beautiful-dnd using the onDragEnd Callback\n06. 23:42 Customise the Appearance of an App using react-beautiful-dnd onDragStart and onDragEnd\n07. 28:04 Customise the Appearance of an App during a Drag using react-beautiful-dnd snapshot Values\n08. 31:30 Designate Control of Dragging for a react-beautiful-dnd Draggable with dragHandleProps\n09. 33:48 Move Items between Columns with react-beautiful-dnd using onDragEnd\n10. 39:36 Conditionally Allow Movement using react-beautiful-dnd Draggable and Droppable Props\n11. 44:35 Create Reorderable Horizontal Lists with react-beautiful-dnd direction prop\n12. 47:11 Reorder Columns with react-beautiful-dnd\n13. 53:58 Optimize Performance in react-beautiful-dnd with shouldComponentUpdate and PureComponent\n14. 59:56 Customize Screen Reader Messages for Drag and Drop with react-beautiful-dnd",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 38,
+        "publishedAt": "2018-10-11T05:31:51.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "e56W2T51Wg0" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/e56W2T51Wg0/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/e56W2T51Wg0/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/e56W2T51Wg0/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/e56W2T51Wg0/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/e56W2T51Wg0/sddefault.jpg", "width": 640 }
+        },
+        "title": "Beautiful and Accessible Drag and Drop with react-beautiful-dnd"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "kaCMNAPM_sk", "videoPublishedAt": "2018-10-17T02:05:50.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/vE4D22Kl6lcFEUsOt4ZSGjEZKEQ\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5DRUQwODMxQzUyRTlGRkY3",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Using WebAssembly with Rust\nhttps://egghead.io/courses/using-webassembly-with-rust\n\n01. 00:00 Course Overview_ Using WebAssembly with Rust\n02. 01:29 Setup Rust for WebAssembly\n03. 03:29 Load a WebAssembly Function Written in Rust and Invoke it from JavaScript\n04. 06:11 Pass a JavaScript Function to WebAssembly and Invoke it from Rust\n05. 08:09 Set up wasm-bindgen for easy Rust_JavaScript Interoperability\n06. 12:58 Create a New Rust_Webpack Project using the rust-webpack Template\n07. 14:35 Debug a WebAssembly Module Written in Rust using console.log\n08. 15:35 Access WebAssembly Memory Directly from JavaScript\n09. 20:05 Use the js-sys Crate to Invoke Global APIs Available in Any JavaScript Environment\n10. 21:21 Create and Publish a NPM Package Containing Rust Generated WebAssembly using wasm-pack\n11. 23:23 Run WebAssembly in Node.js using the node-loader",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 39,
+        "publishedAt": "2018-10-17T02:05:00.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "kaCMNAPM_sk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/kaCMNAPM_sk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/kaCMNAPM_sk/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/kaCMNAPM_sk/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/kaCMNAPM_sk/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/kaCMNAPM_sk/sddefault.jpg", "width": 640 }
+        },
+        "title": "Using WebAssembly with Rust"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "MFxbpvYbW8A", "videoPublishedAt": "2018-10-20T10:06:33.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/adJkrFrM1MGZ9yBpLo8dzg9aZlk\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41MzY4MzcwOUFFRUU3QzEx",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Build a Blog with React and Markdown using Gatsby\nhttps://egghead.io/courses/build-a-blog-with-react-and-markdown-using-gatsby\n\n01. 00:00 Install the Latest Version of Gatsby\n02. 00:46 Install Plugins for Transforming Markdown with Gatsby\n03. 02:01 Format Markdown Files for Gatsby.js\n04. 02:52 Use the GraphiQL Browser to Build Queries for Gatsby\n05. 04:40 Create a Home Layout Component with a GraphQL Query in Gatsby\n06. 06:39 Organize React Components in a Gatsby Project\n07. 07:26 Add a List of Posts to a Gatsby Blog with a GraphQL Page Query\n08. 10:02 Build Gatsby Page Slugs Dynamically from Markdown with gatsby-node.js\n09. 14:22 Build a Blog Post Template with GraphQL and Gatsby\n10. 17:33 Add Next and Previous Links to a Gatsby Blog\n11. 21:35 Expose Post Tag Data for a Gatsby Blog\n12. 26:42 Use PageContext to Display Tags in Gatsby\n13. 30:40 Deploy a Gatsby Site with Netlify",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 40,
+        "publishedAt": "2018-10-20T10:00:36.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "MFxbpvYbW8A" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/MFxbpvYbW8A/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/MFxbpvYbW8A/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/MFxbpvYbW8A/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/MFxbpvYbW8A/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/MFxbpvYbW8A/sddefault.jpg", "width": 640 }
+        },
+        "title": "Build a Blog with React and Markdown using Gatsby"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "RgCFYNTn7wE", "videoPublishedAt": "2018-10-24T10:30:47.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/22QaqhIz8TF7WCjWsvTJgzbfAdw\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4yQjZFRkExQjFGODk3RUFD",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "GraphQL Essential Training\nhttps://www.lynda.com/GraphQL-tutorials/GraphQL-Essential-Training/614315-2.html\n\n2. Setup and Introduction\n    1. IDE and required tools\n    2. GraphQL overview\n    3. Server setup with ES6 support\n    4. The initial GraphQL setup\n    5. Basic GraphQL schema\n\n3. Types and Schemas\n    1. Object types and fields\n    2. Query and mutation types\n    3. What is the resolver and its role\n    4. Scalar types\n    5. Enumeration types\n    6. List of types inside another\n    7. Using GraphQL tools\n\n4. Setting Up Persistence\n    1. Installing Mongo for GraphQL\n    2. Final setup of Mongo with GraphQL\n    3. Data persistence with SQL\n\n5. Mutations\n    1. Add new items with mutations\n    2. Update items with mutations\n    3. Delete items with mutations\n\n6. Queries in Depth\n    1. Simple query with persistence\n    2. Querying with arguments\n    3. Querying with aliases\n    4. Querying with fragments",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 41,
+        "publishedAt": "2018-10-24T10:20:27.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "RgCFYNTn7wE" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/RgCFYNTn7wE/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/RgCFYNTn7wE/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/RgCFYNTn7wE/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/RgCFYNTn7wE/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/RgCFYNTn7wE/sddefault.jpg", "width": 640 }
+        },
+        "title": "GraphQL Essential Training"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "Pew8s4pZ_GQ" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZFhsLtB0ffzpWCzSdAmVOP0UWfQ\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4yQUJFNUVCMzVDNjcxRTlF",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "This video is unavailable.",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 42,
+        "publishedAt": "2018-10-26T04:24:44.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "Pew8s4pZ_GQ" },
+        "title": "Deleted video"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "VTJrGy-XgAg", "videoPublishedAt": "2018-11-15T02:55:30.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/U2kk1_1M-Go52ivaAig_CLJVXZ8\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi40QzRDOEU0QUYwNUIxN0M1",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner\n\n01. Introduction to Execute npm Package Binaries with the npx Package Runner\n02. Use npx to run locally installed node modules\n03. Use npx to Temporarily Install and Invoke a Package from npm\n04. Test Different Node Module Versions with npx\n05. Use npx to run commands with different Node.js versions\n06. Execute npx commands with $npm_ Environment Variables\n07. Execute Code from a Remote GitHub Branch with npx\n08. Use npx to execute code from a GitHub gist",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 43,
+        "publishedAt": "2018-11-15T02:52:04.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "VTJrGy-XgAg" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/VTJrGy-XgAg/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/VTJrGy-XgAg/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/VTJrGy-XgAg/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/VTJrGy-XgAg/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/VTJrGy-XgAg/sddefault.jpg", "width": 640 }
+        },
+        "title": "Execute npm Package Binaries with the npx Package Runner"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "e9ybM5hpIoo", "videoPublishedAt": "2018-11-27T02:58:01.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9Ub5eOZaOAfeZasHuMcqqtPWUWk\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi41RTNBREYwMkI5QzU3RkY2",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Scalable Offline-Ready GraphQL Applications with AWS AppSync & React\nhttps://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react\n\n01. Course Overview\n02. Create your first AWS AppSync GraphQL API\n03. Execute Mutations within the AWS AppSync Console\n04. Execute Queries within the AWS AppSync Console\n05. Connect to AWS AppSync from a React Application\n06. Execute Queries to an AWS AppSync GraphQL API from a React Application\n07. Execute Mutations to an AWS AppSync GraphQL API from a React Application\n08. Subscribe to New Data in a React Application with AWS AppSync GraphQL Subscriptions\n09. Building AWS AppSync APIs using the AWS Amplify CLI",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 44,
+        "publishedAt": "2018-11-27T02:52:36.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "e9ybM5hpIoo" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/e9ybM5hpIoo/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/e9ybM5hpIoo/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/e9ybM5hpIoo/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/e9ybM5hpIoo/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/e9ybM5hpIoo/sddefault.jpg", "width": 640 }
+        },
+        "title": "Scalable Offline-Ready GraphQL Applications with AWS AppSync & React"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "xaHqIyG0r-8", "videoPublishedAt": "2018-11-30T10:36:58.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/Ighh9sWce7H9EZGb3hMZbT7cEPU\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi5ENjI1QUI0MDI5NEQzODFE",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Data Structures and Algorithms in JavaScript\nhttps://egghead.io/courses/data-structures-and-algorithms-in-javascript\n\n01. Course Introduction\n02. Queue Data Structure in JavaScript\n03. Priority Queue JavaScript Data Structure\n04. Stack Data Structure in JavaScript\n05. Linked List Data Structure in JavaScript\n06. JavaScript Graph Data Structure\n07. Breadth First JavaScript Search Algorithm for Graphs\n08. Write a Depth First Search Algorithm for Graphs in JavaScript\n09. Tree Data Structure in JavaScript\n10. Build a Binary Tree  in JavaScript and Several Traversal Algorithms\n11. Sort an Array with a JavaScript do while Loop using Bubble Sort\n12. Sort an Array with a Nested for Loop using Insertion Sort in JavaScript\n13. Divide and Recurse Over an Array with Merge Sort in JavaScript\n14. Recursively Sort an Array in JavaScript with Quick Sort",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 45,
+        "publishedAt": "2018-11-30T10:29:34.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "xaHqIyG0r-8" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/xaHqIyG0r-8/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/xaHqIyG0r-8/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/xaHqIyG0r-8/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/xaHqIyG0r-8/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/xaHqIyG0r-8/sddefault.jpg", "width": 640 }
+        },
+        "title": "Data Structures and Algorithms in JavaScript"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "c4tJhniEoDk", "videoPublishedAt": "2018-12-03T05:32:49.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iXaB578hMrjmrLhrr16VHRoLj44\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi44QzVGQUU2QjE2NDgxM0M4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Simplify React Apps with React Hooks and Suspense\nhttps://egghead.io/courses/simplify-react-apps-with-react-hooks-and-suspense\n\n01. Introduction to Refactoring a React Application to React Hooks and React Suspense\n02. Refactor a Class Component with React hooks to a Function\n03. Ensure all React useEffect Effects Run Synchronously in Tests with react-testing-library\n04. Handle Deep Object Comparison in React useEffect hook with the useRef Hook\n05. Safely setState on a Mounted React Component through the useEffect Hook\n06. Extract Generic React Hook Code into Custom React Hooks\n07. Track Values Over the Course of Renders with React useRef in a Custom usePrevious Hook\n08. Deeply Compare Inputs in a Custom React Hook for useEffect\n09. Refactor a React Class Component with useContext and useState Hooks\n10. Refactor a render Prop Component to a Custom React Hook\n11. Handle componentDidMount and componentWillUnmount in React Component Refactor to Hooks\n12. Dynamically Import React Components with React.lazy and Suspense\n13. Preload React Components with the useEffect Hook",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 46,
+        "publishedAt": "2018-12-03T05:22:11.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "c4tJhniEoDk" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/c4tJhniEoDk/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/c4tJhniEoDk/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/c4tJhniEoDk/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/c4tJhniEoDk/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/c4tJhniEoDk/sddefault.jpg", "width": 640 }
+        },
+        "title": "Simplify React Apps with React Hooks and Suspense"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "WmVdXAENtQY", "videoPublishedAt": "2018-12-03T05:28:51.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/DBNomyATQMiwxHDf9XJwbhtWBU0\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4xMzgwMzBERjQ4NjEzNUE5",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "CSS Selectors in Depth\nhttps://egghead.io/courses/css-selectors-in-depth\n\n01. Understand Basic CSS Selectors\n02. Identify Interactive HTML Elements with CSS Link Pseudo Classes\n03. Define Form Element States with CSS Form Pseudo Classes\n04. Target Custom HTML Element Patterns with DOM Hierarchy Pseudo Classes in CSS\n05. Target HTML Elements not Explicitly set in the DOM with CSS Pseudo Elements\n06. Chain Simple CSS Selectors for Fine-grain DOM Element Targeting\n07. Advanced CSS Selector Chaining for Improved Interaction without Javascript\n08. Understand CSS Selector Specificity",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 47,
+        "publishedAt": "2018-12-03T05:23:32.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "WmVdXAENtQY" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/WmVdXAENtQY/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/WmVdXAENtQY/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/WmVdXAENtQY/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/WmVdXAENtQY/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/WmVdXAENtQY/sddefault.jpg", "width": 640 }
+        },
+        "title": "CSS Selectors in Depth"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "fwHQEc7B7kU", "videoPublishedAt": "2018-12-03T10:02:38.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7GA69EQohW2n8tWnHcgKV2r1vWA\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi4zMEQ1MEIyRTFGNzhDQzFB",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "React Hooks and Suspense\nhttps://egghead.io/playlists/react-hooks-and-suspense-650307f2\n\n01. 00:00 Use the useState React Hook\n02. 01:19 Test React Components that use React Hooks\n03. 03:04 Share Logic Across Multiple React Components with Custom Hooks\n04. 04:32 Store Values in localStorage with the React useEffect Hook\n05. 07:45 Test Effects Generated from React the useEffect Hook\n06. 10:20 Access and Modify a DOM Node with the React useRef and useEffect Hooks\n07. 13:24 Interact and Update State in React with useState\n08. 18:30 Declaratively Interact with Complex Component State using the React useReducer Hook\n09. 21:16 Simplify a Component Reducer with the React setState Hook\n10. 22:54 Share Complex Logic across React Components with Custom Hooks\n11. 25:28 Prevent Unnecessary Component Rerenders with React memo\n12. 28:06 Lazy Load a React Component with React.lazy and Suspense\n15. Learn fundamentals of React Suspense\n16. Optimize Suspense HTTP requests with createResource from react-cache",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 48,
+        "publishedAt": "2018-12-03T09:54:20.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "fwHQEc7B7kU" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/fwHQEc7B7kU/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/fwHQEc7B7kU/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/fwHQEc7B7kU/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/fwHQEc7B7kU/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/fwHQEc7B7kU/sddefault.jpg", "width": 640 }
+        },
+        "title": "React Hooks and Suspense"
+      }
+    },
+    {
+      "contentDetails": { "videoId": "W4MTSbjSRUM", "videoPublishedAt": "2018-12-05T04:21:24.000+00:00" },
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/kczZeSwptGCmI7IamnsaWRLe1Cs\"",
+      "id": "UExscDRUNlJtMk5seVpjNVFIemozMVZrbktrQy1RcTlBYi42Qzk5MkEzQjVFQjYwRDA4",
+      "kind": "youtube#playlistItem",
+      "snippet": {
+        "channelId": "UCc3kFSXHW51dhRPLBgLmdag",
+        "channelTitle": "C P",
+        "description": "Reactive State Management in Angular with ngrx\nhttps://egghead.io/courses/reactive-state-management-in-angular-with-ngrx\n\n01. Reactive State Management in Angular with ngrx\n02. Set Up ngrx Store for an Application Feature\n03. Integrate Redux devtools into an ngrx Angular Application\n04. Manage Data in the ngrx Store through a Reducer in Angular\n05. Dispatch Strongly Typed Action Objects to an ngrx Store in Angular\n06. Simplify Collection Management with ngrx Entity in Angular\n07. Simplify Querying for State with ngrx Selectors in Angular\n08. Handle Async Operations with ngrx Effects in Angular\n09. Improve Server Communication in Ngrx Effects with NX Data Persistence in Angular\n10. Connect Related Angular Data  Models with Computed Data using ngrx Selectors\n11. Extract Implementation Details of ngrx from an Angular Application with the Facade Pattern",
+        "playlistId": "PLlp4T6Rm2NlyZc5QHzj31VknKkC-Qq9Ab",
+        "position": 49,
+        "publishedAt": "2018-12-05T04:00:39.000+00:00",
+        "resourceId": { "kind": "youtube#video", "videoId": "W4MTSbjSRUM" },
+        "thumbnails": {
+          "default": { "height": 90, "url": "https://i.ytimg.com/vi/W4MTSbjSRUM/default.jpg", "width": 120 },
+          "high": { "height": 360, "url": "https://i.ytimg.com/vi/W4MTSbjSRUM/hqdefault.jpg", "width": 480 },
+          "maxres": { "height": 720, "url": "https://i.ytimg.com/vi/W4MTSbjSRUM/maxresdefault.jpg", "width": 1280 },
+          "medium": { "height": 180, "url": "https://i.ytimg.com/vi/W4MTSbjSRUM/mqdefault.jpg", "width": 320 },
+          "standard": { "height": 480, "url": "https://i.ytimg.com/vi/W4MTSbjSRUM/sddefault.jpg", "width": 640 }
+        },
+        "title": "Reactive State Management in Angular with ngrx"
+      }
+    }
+  ],
+  "kind": "youtube#playlistItemListResponse",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": { "resultsPerPage": 50, "totalResults": 69 }
+}
